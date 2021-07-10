@@ -1,0 +1,119 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+h3{
+  font-size: 30px;
+}
+
+.name{
+  color: orange;
+  font-size: 40px;
+}
+
+.half-width{
+  width: 35%;
+  margin: 80px 0px 0px 150px;
+  height: 500px;
+  float: left;
+}
+
+.link-button{
+  background-image: linear-gradient(30deg, salmon, orange);
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+
+p{
+  padding-bottom: 20px;
+}
+
+.header{
+  background-image: url("/personal-website/footer-bg.png");
+  background-repeat: no-repeat;
+  padding-bottom: 100px;
+  height: 500px;
+}
+
+.half-width img{
+  width: 70%;
+}
+
+.middle{
+  background-image: url("/personal-website/biography-bg.png");
+  background-repeat: no-repeat;
+  padding-bottom: 100px;
+  height: 500px;
+}
+
+.work-images{
+  width: 30%;
+  /* margin: 20px 10px 20px 0px; */
+  height: 500px;
+  float: left;
+}
+
+.work-images img{
+  width: 100%;
+
+}
+
+.work{
+  background-image: url("/personal-website/latest-work-bg.png");
+  background-repeat: no-repeat;
+  padding-bottom: 100px;
+  height: 500px;
+}
+
+.work, .tesimonial h3{
+  text-align: center;
+  font-size: 30px;
+  padding: 30px 0px 30px 0px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.tesimonial{
+  text-align: center;
+  padding-bottom: 100px;
+  background-image: url("/personal-website/footer-bg.png");
+}
+
+.test{
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.contact{
+  background-image: linear-gradient(35deg, salmon, orange);
+  margin-top: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 60%;
+  text-align: center;
+  border-radius: 5px;
+  margin: auto;
+
+}
+
+/* .contact p{
+  display: flex;
+  justify-content: center;
+}
+
+.contact h2{
+  display: flex;
+  justify-content: center;
+} */
+
+
+.footer{
+  text-align: center;
+}
